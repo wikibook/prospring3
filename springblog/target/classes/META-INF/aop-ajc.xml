@@ -1,0 +1,6 @@
+<aspectj>
+<aspects>
+<aspect name="com.apress.prospring3.springblog.common.aop.ObscenityFilterAdvice"/>
+</aspects>
+</aspectj>
+
